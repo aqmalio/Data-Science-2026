@@ -14,7 +14,20 @@ Di dalam *repo* ini, terdapat kumpulan file Jupyter Notebook (`.ipynb`) yang men
 
 ## List Pertemuan & Topik Pembelajaran
 
-
+| Pertemuan | Topik / Judul Materi | File Notebook | Google Colab |
+| :---: | :--- | :--- | :--- |
+| **1** | Pengenalan Data Science | [`Pertemuan1_Aqmal_250401020149.ipynb`](./Pertemuan1_Aqmal_250401020149.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan1_Aqmal_250401020149.ipynb) |
+| **2** | Struktur Data Python, NumPy & Pandas | [`Pertemuan2_Aqmal_250401020149.ipynb`](./Pertemuan2_Aqmal_250401020149.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan2_Aqmal_250401020149.ipynb) |
+| **3** | Data Cleaning: Missing, Outlier & Ekstraksi | [`Pertemuan3_Aqmal_250401020149.ipynb`](./Pertemuan3_Aqmal_250401020149.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan3_Aqmal_250401020149.ipynb) |
+| **4** | Statistika Dasar & Analisis Data | [`Pertemuan4_Aqmal_250401020149.ipynb`](./Pertemuan4_Aqmal_250401020149.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan4_Aqmal_250401020149.ipynb) |
+| **5** | Visualisasi Data | [`Pertemuan5_Aqmal_250401020149.ipynb`](./Pertemuan5_Aqmal_250401020149.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan5_Aqmal_250401020149.ipynb) |
+| **6** | Persiapan Data | [`Pertemuan6_Aqmal_250401020149.ipynb`](./Pertemuan6_Aqmal_250401020149.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan6_Aqmal_250401020149.ipynb) |
+| **7** | Pengantar Machine Learning: Regresi Linier | [`Pertemuan7_Aqmal_250401020149.ipynb`](./Pertemuan7_Aqmal_250401020149.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan7_Aqmal_250401020149.ipynb) |
+| **9** | Algoritma Klasifikasi (Bagian 1) | [`Pertemuan9_Aqmal_250401020149.ipynb`](./Pertemuan9_Aqmal_250401020149.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan9_Aqmal_250401020149.ipynb) |
+| **10** | Algoritma Klasifikasi (Bagian 2) | [`Pertemuan10_Aqmal_250401020149.ipynb`](./Pertemuan10_Aqmal_250401020149.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan10_Aqmal_250401020149.ipynb) |
+| **11** | Unsupervised Learning: Clustering (K-Means & Hierarchical) | [`Pertemuan11_Aqmal_250401020149.ipynb`](./Pertemuan11_Aqmal_250401020149.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan11_Aqmal_250401020149.ipynb) |
+| **12** | Asosiasi Data & Sistem Rekomendasi Dasar | [`Pertemuan12_Aqmal_250401020149.ipynb`](./Pertemuan12_Aqmal_250401020149.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan12_Aqmal_250401020149.ipynb) |
+| **13** | Pengantar Topik Lanjutan: Deep Learning & NLP Dasar | [`Pertemuan13_Aqmal_250401020149.ipynb`](./Pertemuan13_Aqmal_250401020149.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan13_Aqmal_250401020149.ipynb) |
 
 ## Tools & Library
 
@@ -27,6 +40,57 @@ Di dalam *repo* ini, terdapat kumpulan file Jupyter Notebook (`.ipynb`) yang men
 *   **TensorFlow & Keras:** Untuk membangun Neural Network dan Deep Learning.
 *   **mlxtend:** Untuk Market Basket Analysis (Apriori & Association Rules).
 
+## Cara Menjalankan Notebook
+
+#### 1. Menjalankan di Google Colab (Direkomendasikan)
+Klik tombol **Open in Colab** di tabel di atas untuk langsung membuka dan menjalankan *file*-nya di Google Colab:
+
+* **Pertemuan 1:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan1_Aqmal_250401020149.ipynb)
+* **Pertemuan 2:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan2_Aqmal_250401020149.ipynb)
+* **Pertemuan 3:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan3_Aqmal_250401020149.ipynb)
+* **Pertemuan 4:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan4_Aqmal_250401020149.ipynb)
+* **Pertemuan 5:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan5_Aqmal_250401020149.ipynb)
+* **Pertemuan 6:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan6_Aqmal_250401020149.ipynb)
+* **Pertemuan 7:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan7_Aqmal_250401020149.ipynb)
+* **Pertemuan 9:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan9_Aqmal_250401020149.ipynb)
+* **Pertemuan 10:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan10_Aqmal_250401020149.ipynb)
+* **Pertemuan 11:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan11_Aqmal_250401020149.ipynb)
+* **Pertemuan 12:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan12_Aqmal_250401020149.ipynb)
+* **Pertemuan 13:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqmalio/Data-Science-2026/blob/main/Pertemuan13_Aqmal_250401020149.ipynb)
+
+#### 2. Menjalankan Secara Lokal di PC
+
+1. Clone repository ini:
+```bash
+   git clone https://github.com/aqmalio/Data-Science-2026.git
+```
+
+2. Masuk ke direktori repository:
+```bash
+  cd Data-Science-2026
+```
+
+3. Buat dan aktifkan Virtual Environment
+```bash
+  # Membuat virtual environment bernama 'env'
+   python -m venv env
+
+   # Mengaktifkan virtual env di Linux/Mac:
+   source env/bin/activate  
+   
+   # Mengaktifkan virtual env di Windows:
+   env\Scripts\activate
+```
+
+4. Install semua library yang dibutuhkan:
+```bash
+  pip install pandas numpy scipy scikit-learn matplotlib seaborn jupyter tensorflow keras mlxtend
+```
+
+5. jalankan jupyter notebook
+```bash
+  jupyter notebook
+```
 
 ## Kesimpulan Umum Belajar Data Science (Pertemuan 1 - 13)
 
